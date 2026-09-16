@@ -13,7 +13,7 @@ Formulário de Solicitação de Resolução de NC que, ao ser enviado, dispara u
 ## Como rodar
 Requer JDK 17+ e Maven.
 ```
-mvn javafx:run
+mvn -f auditoria-qa/pom.xml javafx:run
 ```
 Para o envio de e-mail, preencha `API_KEY` e `EMAIL_REMETENTE` em `EmailService.java` com uma chave e um remetente verificado no Brevo.
 
