@@ -15,8 +15,8 @@ import java.net.http.HttpResponse;
  */
 public class EmailService {
 
-    private static final String API_KEY = "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";
-    private static final String EMAIL_REMETENTE = "solicitacaonc@gmail.com";
+    private static final String API_KEY = "sua_chave";
+    private static final String EMAIL_REMETENTE = "seu_email";
     private static final String URL_API = "https://api.brevo.com/v3/smtp/email";
 
     /** Retorna true se a API aceitou o envio (HTTP 201). */
