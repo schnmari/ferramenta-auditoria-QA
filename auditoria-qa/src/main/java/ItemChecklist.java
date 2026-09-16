@@ -1,4 +1,3 @@
-/**package br.pucpr.auditoria;*/
 
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;

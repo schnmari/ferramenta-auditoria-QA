@@ -1,4 +1,3 @@
-/**package br.pucpr.auditoria;*/
 
 import java.util.function.Function;
 

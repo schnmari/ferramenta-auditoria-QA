@@ -1,4 +1,3 @@
-/**package br.pucpr.auditoria;*/
 
 import javafx.geometry.Insets;
 import javafx.scene.control.Alert;
